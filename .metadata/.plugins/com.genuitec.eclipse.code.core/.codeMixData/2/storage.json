@@ -1,0 +1,14 @@
+{
+    "telemetry.machineId": "c3c44eee027e9581155a961cdcb981e147290e2664d7a6233f7a18e07a25f042",
+    "openedPathsList": {
+        "workspaces3": [
+            {
+                "id": "738308978bbf332024a8643b3a9d9dad",
+                "configURIPath": "file:///d%3A/Project/Project_DevSuperior/jdbc-postgres/.metadata/codemix.code-workspace"
+            }
+        ],
+        "files2": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#221a0f"
+}
